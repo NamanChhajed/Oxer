@@ -1,7 +1,7 @@
 body {
     margin: 0;
     padding: 0;
-    width: 1300px;
+    width: 1320px;
     overflow-x: hidden;
 }
 #main {
@@ -234,7 +234,7 @@ body {
 }
 #move-left {
     background-color: #63f74f;
-    margin-right: 25px;
+    margin-right: 80px;
     margin-top: 200px;
     /* border: 2px solid red; */
     height: 52px;
