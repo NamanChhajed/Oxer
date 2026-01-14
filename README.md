@@ -26,6 +26,4 @@ This project was created to improve frontend development skills and practice rea
 ## 👨‍💻 Author
 **Naman Chhajer**  
 Full Stack Web Developer Intern  
-Portfolio : https://namanchhajed.netlify.app
-Portfolio: https://your-portfolio-link  
-GitHub: https://github.com/yourusername
+Portfolio : https://namanchhajer.netlify.app
